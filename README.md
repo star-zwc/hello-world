@@ -1,2 +1,2 @@
 # hello-world
-123
+document.write("aaaaa")
